@@ -1,5 +1,5 @@
 body {
-    background-image: ;
+    background-image: url("images/achtergrond.jpg");
 }
 
 .rood {
@@ -12,4 +12,11 @@ body {
 
 .groen {
     color: green;
+}
+
+h1 {
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+    font-size: 80px;
 }
